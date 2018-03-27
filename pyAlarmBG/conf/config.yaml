@@ -1,0 +1,7 @@
+sms:
+  enterpriseid: k
+  uid: 80
+  url: http://2
+sqlite:
+  path: /home/yifans/code/pycharm_workspace/pyAlarmBG/sqlite
+  dbname: test.db
